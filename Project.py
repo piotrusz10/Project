@@ -1,3 +1,5 @@
+### Piotr Szyszka CISC 3160 Project
+### The following Python code implements a language using python's sly library
 from sly import Lexer
 
 from sly import Parser
